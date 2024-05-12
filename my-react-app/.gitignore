@@ -22,11 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-Food.jsx
-Header.jsx
-Footer.jsx
-Button.jsx
-Card.jsx
-Button.module.css
-Student.jsx
-props topic.jpg
