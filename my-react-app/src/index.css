@@ -1,4 +1,4 @@
-.welcome-message{
+/* .welcome-message{
  font-family:'Arial Narrow', sans-serif;
  background-color:rgba(0, 26, 255, 0.842);
  color:aliceblue;
@@ -15,4 +15,31 @@
   border-radius:5px;
   margin: o;
  
+} */
+
+.counter-container{
+text-align: center;
+font-family: Arial,sans-serif;
+}
+.count-display{
+  font-size:10em;
+  margin-top:0;
+  margin-bottom:50px;
+  color:rgb(0, 255, 145);
+  
+}
+.counter-button{
+  width: 150px;
+  height: 50px;
+  font-size:1.5em;
+  font-weight:bold;
+  margin: 0px 5px;
+  background-color:rgb(0, 187, 249);
+  color:aliceblue;
+  border:none;
+  border-radius: 5px;
+  cursor:pointer;
+}
+.counter-button:hover{
+  background-color: rgb(7, 240, 201);
 }

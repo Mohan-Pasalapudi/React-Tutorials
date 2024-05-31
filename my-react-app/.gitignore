@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+Button.jsx
+Card.jsx
+Food.jsx
+Conditional Rendering
+Footer.jsx
+Header.jsx
+List.jsx
+main.jsx
+assets

@@ -1,8 +1,9 @@
-import List from './List.jsx'
+import Counter from './Counter.jsx'
 function App() {
   return(
-    <List/>
+<Counter/>
   );
 }
 
 export default App
+
