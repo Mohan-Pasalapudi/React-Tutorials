@@ -1,7 +1,7 @@
-import Counter from './Counter.jsx'
+import ReactEvents from './ReactEvents.jsx'
 function App() {
   return(
-<Counter/>
+<ReactEvents/>
   );
 }
 
