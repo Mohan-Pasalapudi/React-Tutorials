@@ -1,0 +1,24 @@
+import {Component} from "react"
+class MountingPhase extends Component{
+
+
+    constructor(){
+        super()//calling Component class constructor
+        this.state={
+            x:10
+        }
+    }
+
+    render(){
+        return(
+        <>
+        <h1><b>Component Life Cycle Methods</b></h1>
+        <h2>Mounting Phase</h2>
+        <h2>{this.state.x}</h2>
+        <button onClick={()=>{this.setState({x:this.state.x+10})}}>Click</button>
+        </>)
+
+    }
+
+}
+export default MountingPhase
